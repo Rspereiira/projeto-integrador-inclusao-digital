@@ -4,11 +4,6 @@
 
 ---
 
-<!-- Insira aqui uma foto representativa do projeto -->
-![Capa do Projeto](screenshots/capa.jpg)
-
----
-
 ## Sobre o Projeto
 
 Este projeto nasceu de uma pergunta simples: **o que acontece quando a tecnologia chega às mãos de quem nunca teve acesso a ela?**
