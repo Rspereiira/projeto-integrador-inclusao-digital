@@ -18,7 +18,7 @@
 
 ## 1º Encontro — O primeiro contato
 
-O primeiro dia foi marcado pela apresentação mútua — a equipe conhecendo os idosos, e os idosos conhecendo a proposta do projeto.
+O primeiro dia foi marcado pela apresentação mútua, a equipe conhecendo os idosos, e os idosos conhecendo a proposta do projeto.
 
 Para quebrar o gelo e tornar a chegada mais leve, foi criada uma dinâmica com letras do alfabeto. Cada participante sorteava uma letra, e a partir dela, a equipe introduzia uma pesquisa no Google relacionada a algum tema de interesse.
 
@@ -29,7 +29,7 @@ Ainda nesse primeiro dia, foi apresentado o **Google Maps** e ver os próprios l
 <!-- Insira aqui uma foto do primeiro dia -->
 ![Primeiro Encontro](../screenshots/dia1.jpg)
 
-**Com o Participante B**, o foco foi nas redes sociais. Ele já tinha algum contato com tecnologia, mas sentia dificuldade com Facebook, Instagram e WhatsApp. A equipe trabalhou essas plataformas de forma prática, mostrando como navegar, interagir com publicações e buscar conteúdos de interesse — especialmente notícias e informações sobre seu time de futebol.
+**Com o Participante B**, o foco foi nas redes sociais. Ele já tinha algum contato com tecnologia, mas sentia dificuldade com Facebook, Instagram e WhatsApp. A equipe trabalhou essas plataformas de forma prática, mostrando como navegar, interagir com publicações e buscar conteúdos de interesse, especialmente notícias e informações sobre seu time de futebol.
 
 **Com o Participante C**, foram realizadas atividades de digitação e exploração do Google Maps, focando em locais marcantes de sua vida no interior. Ele compartilhou memórias de pesca em Mato Grosso do Sul, lugares que, por limitações de saúde, não consegue mais visitar. Ver esses locais na tela foi um momento carregado de emoção.
 
@@ -39,7 +39,7 @@ Ainda nesse primeiro dia, foi apresentado o **Google Maps** e ver os próprios l
 
 No segundo dia, a equipe já conhecia melhor cada participante e isso fez toda a diferença na forma como as atividades foram conduzidas.
 
-**Com o Participante D**, que foi apresentado ao projeto nesse encontro, a atividade girou em torno de sua grande paixão: carros antigos da Volkswagen. Ele aprendeu a pesquisar no Google e passou o encontro revisitando modelos que marcaram sua carreira — Fusca, SP1, Santana, Passat, Karmann-Ghia. Ao final, relatou que adorou a experiência e que a atividade o ajudou a relembrar momentos importantes de sua vida profissional.
+**Com o Participante D**, que foi apresentado ao projeto nesse encontro, a atividade girou em torno de sua grande paixão: carros antigos da Volkswagen. Ele aprendeu a pesquisar no Google e passou o encontro revisitando modelos que marcaram sua carreira: Fusca, SP1, Santana, Passat, Karmann-Ghia. Ao final, relatou que adorou a experiência e que a atividade o ajudou a relembrar momentos importantes de sua vida profissional.
 
 <!-- Insira aqui uma foto do segundo dia -->
 ![Segundo Encontro](../screenshots/dia2.jpg)
@@ -71,7 +71,7 @@ Esse foi um dos encontros mais marcantes do projeto. A tecnologia deixou de ser 
 
 O quarto encontro foi dedicado especialmente ao fortalecimento dos vínculos afetivos por meio da tecnologia.
 
-**Com o Participante A**, as atividades com o Google Maps continuaram — desta vez com foco na **pesquisa por voz**, introduzida como alternativa às limitações motoras que dificultavam a digitação. O resultado foi imediato: ele se sentiu mais confortável e capaz de interagir com a tecnologia de forma independente.
+**Com o Participante A**, as atividades com o Google Maps continuaram, desta vez com foco na **pesquisa por voz**, introduzida como alternativa às limitações motoras que dificultavam a digitação. O resultado foi imediato: ele se sentiu mais confortável e capaz de interagir com a tecnologia de forma independente.
 
 **Com os Participantes B e C**, o foco foi nas redes sociais para ampliar conexões com amigos e familiares. O Participante C ficou especialmente empolgado ao aprender a enviar vídeos para seus filhos e netos pelo Facebook compartilhando registros de momentos especiais da família. Já o Participante B se interessou pelo TikTok, explorando conteúdos relacionados aos seus hobbies.
 
@@ -95,7 +95,7 @@ Durante a atividade, de forma espontânea, ele pediu para ver vídeos sobre a **
 
 ## 6º Encontro — Curiosidade que não tem idade
 
-**Com o Participante A**, o encontro foi dedicado a pesquisas sobre natureza, agricultura e preservação ambiental usando tanto o Google quanto o ChatGPT para buscar informações sobre ipês, eucaliptos, canela e sibipiruna, além de técnicas de poda e plantio. Durante as pesquisas, ele compartilhou conhecimentos e histórias da sua trajetória como agrônomo, tornando a atividade uma troca genuína de saberes. Também foram exploradas informações sobre a Copa do Mundo — tema que despertou grande interesse e participação ativa.
+**Com o Participante A**, o encontro foi dedicado a pesquisas sobre natureza, agricultura e preservação ambiental usando tanto o Google quanto o ChatGPT para buscar informações sobre ipês, eucaliptos, canela e sibipiruna, além de técnicas de poda e plantio. Durante as pesquisas, ele compartilhou conhecimentos e histórias da sua trajetória como agrônomo, tornando a atividade uma troca genuína de saberes. Também foram exploradas informações sobre a Copa do Mundo, tema que despertou grande interesse e participação ativa.
 
 **Com o Participante E**, a atividade teve foco no **aprendizado de idiomas**. Usando o Google Tradutor com microfone e o ChatGPT para criar frases e diálogos em diferentes idiomas, o participante demonstrou entusiasmo ao ouvir e repetir palavras em outras línguas. A tecnologia foi usada como ferramenta de acessibilidade eliminando a barreira da digitação e tornando o aprendizado mais fluido e divertido.
 
@@ -108,14 +108,14 @@ Durante a atividade, de forma espontânea, ele pediu para ver vídeos sobre a **
 
 O último dia foi reservado para uma conversa franca com os participantes sobre o que havia sido o projeto para cada um deles.
 
-Os relatos foram unânimes: todos expressaram satisfação com as atividades e disseram que aprenderam algo que faz sentido para suas vidas. Alguns mencionaram que o medo de usar o celular havia diminuído. Outros falaram sobre momentos específicos que os marcaram — uma pesquisa, uma foto de um lugar, uma música encontrada no YouTube.
+Os relatos foram unânimes: todos expressaram satisfação com as atividades e disseram que aprenderam algo que faz sentido para suas vidas. Alguns mencionaram que o medo de usar o celular havia diminuído. Outros falaram sobre momentos específicos que os marcaram: uma pesquisa, uma foto de um lugar, uma música encontrada no YouTube.
 
 A equipe da instituição também participou do encerramento, demonstrando reconhecimento pelo impacto que o projeto gerou nos residentes.
 
 <!-- Insira aqui uma foto do encerramento -->
 ![Encerramento](../screenshots/encerramento.jpg)
 
-Foi um encerramento simples — mas carregado de significado para todos os lados.
+Foi um encerramento simples, mas carregado de significado para todos os lados.
 
 ---
 
