@@ -10,7 +10,7 @@ Este projeto nasceu de uma pergunta simples: **o que acontece quando a tecnologi
 
 Desenvolvido como parte da disciplina **Projeto Integrador Extensionista I** do curso de Ciências da Computação, o projeto levou estudantes a uma casa de repouso localizada em Catanduva — SP, com um objetivo que vai além do técnico: **mostrar que a tecnologia pode ser uma ponte entre gerações, memórias e pessoas**.
 
-Ao longo de **7 encontros**, idosos com diferentes histórias de vida tiveram seu primeiro contato significativo com ferramentas digitais — não apenas para aprender a usar um celular, mas para **reencontrar lugares que marcaram suas vidas, se reconectar com familiares e descobrir que aprender não tem idade**.
+Ao longo de **7 encontros**, idosos com diferentes histórias de vida tiveram seu primeiro contato significativo com ferramentas digitais não apenas para aprender a usar um celular, mas para **reencontrar lugares que marcaram suas vidas, se reconectar com familiares e descobrir que aprender não tem idade**.
 
 ---
 
@@ -59,4 +59,4 @@ Projeto desenvolvido por estudantes do curso de **Ciências da Computação** co
 
 ---
 
-*Este projeto é um registro de que pequenos gestos de inclusão podem transformar vidas — e que a tecnologia, quando usada com empatia, aproxima ao invés de afastar.*
+*Este projeto é um registro de que pequenos gestos de inclusão podem transformar vidas e que a tecnologia, quando usada com empatia, aproxima ao invés de afastar.*
