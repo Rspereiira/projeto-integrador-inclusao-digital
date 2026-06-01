@@ -1,4 +1,4 @@
-# Inclusão Digital na Terceira Idade 🤝
+# Inclusão Digital na Terceira Idade 
 
 > *"A tecnologia só tem valor quando aproxima pessoas."*
 
