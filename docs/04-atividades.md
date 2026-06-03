@@ -27,7 +27,7 @@ Para quebrar o gelo e tornar a chegada mais leve, foi criada uma dinâmica com l
 Ainda nesse primeiro dia, foi apresentado o **Google Maps** e ver os próprios lugares na tela foi algo que claramente tocou o participante de uma forma que nenhuma explicação técnica conseguiria.
 
 <!-- Insira aqui uma foto do primeiro dia -->
-![Primeiro Encontro](../screenshots/dia1.jpg)
+![Primeiro Encontro](../screenshots-dia1.jpg)
 
 **Com o Participante B**, o foco foi nas redes sociais. Ele já tinha algum contato com tecnologia, mas sentia dificuldade com Facebook, Instagram e WhatsApp. A equipe trabalhou essas plataformas de forma prática, mostrando como navegar, interagir com publicações e buscar conteúdos de interesse, especialmente notícias e informações sobre seu time de futebol.
 
