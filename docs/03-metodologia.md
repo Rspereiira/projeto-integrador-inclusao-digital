@@ -19,9 +19,6 @@ Antes de abrir qualquer aplicativo, a equipe conversava com cada participante. Q
 
 Essas conversas iniciais foram fundamentais. Elas revelaram histórias ricas e mostraram o caminho mais natural para introduzir a tecnologia de forma significativa para cada pessoa.
 
-<!-- Insira aqui uma foto de um momento de conversa inicial com os participantes -->
-![Conversa Inicial](../screenshots/conversa.jpg)
-
 ---
 
 ## Personalização das atividades
