@@ -33,9 +33,6 @@ A maioria dos idosos de lá nunca havia usado a internet por conta própria. Alg
 
 Foi nesse ambiente que chegamos — não para dar uma aula, mas para sentar do lado, ouvir as histórias e mostrar, aos poucos, que a tecnologia podia fazer parte da vida deles também.
 
-<!-- Insira aqui uma foto da instituição -->
-![Instituição Parceira](../screenshots/instituicao.jpg)
-
 ---
 
 *Próximo: [Objetivos do Projeto →](02-objetivos.md)*
